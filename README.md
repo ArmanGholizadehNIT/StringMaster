@@ -1,3 +1,3 @@
 # StringMaster
 
-Java assignment for string stuff
+tamarin hal shode from https://github.com/apnit/StringMaster
